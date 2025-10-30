@@ -1,5 +1,5 @@
 {
-    "name": "mariotafner/jaestro",
+    "name": "@mariotafner/jaestro",
     "version": "1.0.0",
     "description": "Minha biblioteca de utilitários para projetos Node/Bun.",
     "main": "index.js",
