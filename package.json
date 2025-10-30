@@ -8,5 +8,5 @@
     },
     "author": "Mario Fabre <admin@mariofabre.dev>",
     "license": "UNLICENSED",
-    "private": true
+    "private": false
   }
