@@ -8,9 +8,5 @@
     },
     "author": "Mario Fabre <admin@mariofabre.dev>",
     "license": "UNLICENSED",
-    "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mariotafner/jaestro.git"
-    }
+    "private": true
   }
