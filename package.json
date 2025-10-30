@@ -1,0 +1,16 @@
+{
+    "name": "mariotafner/jaestro",
+    "version": "1.0.0",
+    "description": "Minha biblioteca de utilitários para projetos Node/Bun.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mario Fabre <admin@mariofabre.dev>",
+    "license": "UNLICENSED",
+    "private": true,
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/mariotafner/jaestro.git"
+    }
+  }
