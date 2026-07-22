@@ -12,4 +12,5 @@
  */
 export { test } from "./test.js";
 export { msort } from "./msort.js";
+export { randomString } from "./randomString.js";
 //# sourceMappingURL=index.d.ts.map

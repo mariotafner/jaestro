@@ -12,9 +12,11 @@
  * @packageDocumentation
  */
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.msort = exports.test = void 0;
+exports.randomString = exports.msort = exports.test = void 0;
 var test_js_1 = require("./test.js");
 Object.defineProperty(exports, "test", { enumerable: true, get: function () { return test_js_1.test; } });
 var msort_js_1 = require("./msort.js");
 Object.defineProperty(exports, "msort", { enumerable: true, get: function () { return msort_js_1.msort; } });
+var randomString_js_1 = require("./randomString.js");
+Object.defineProperty(exports, "randomString", { enumerable: true, get: function () { return randomString_js_1.randomString; } });
 //# sourceMappingURL=index.js.map
