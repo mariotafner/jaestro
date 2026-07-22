@@ -1,0 +1,1 @@
+{"version":3,"file":"removeDuplicatedSpaces.js","sourceRoot":"","sources":["../src/removeDuplicatedSpaces.ts"],"names":[],"mappings":";;AAWA,wDAEC;AAbD;;;;;;;;;;GAUG;AACH,SAAgB,sBAAsB,CAAC,GAAW;IAC9C,OAAO,GAAG,CAAC,OAAO,CAAC,MAAM,EAAE,GAAG,CAAC,CAAC,IAAI,EAAE,CAAC;AAC3C,CAAC"}

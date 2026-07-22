@@ -1,0 +1,1 @@
+{"version":3,"file":"randomInt.js","sourceRoot":"","sources":["../src/randomInt.ts"],"names":[],"mappings":";;AAcA,8BAEC;AAhBD;;;;;;;;;;;;;GAaG;AACH,SAAgB,SAAS,CAAC,GAAW,EAAE,GAAW;IAC9C,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,EAAE,GAAG,CAAC,GAAG,GAAG,GAAG,GAAG,CAAC,CAAC,CAAC,GAAG,GAAG,CAAC;AAC7D,CAAC"}

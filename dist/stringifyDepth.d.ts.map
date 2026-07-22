@@ -1,0 +1,1 @@
+{"version":3,"file":"stringifyDepth.d.ts","sourceRoot":"","sources":["../src/stringifyDepth.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,MAAM,iBAAiB,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,GAAG,KAAK,GAAG,CAAC;AAEjE;;;;;;;;;;;;;;;;;GAiBG;AACH,wBAAgB,cAAc,CAC1B,GAAG,EAAE,OAAO,EACZ,KAAK,EAAE,MAAM,EACb,QAAQ,GAAE,iBAAiB,GAAG,IAAW,EACzC,KAAK,GAAE,MAAU,GAClB,MAAM,CA6BR"}

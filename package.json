@@ -1,21 +1,27 @@
 {
     "name": "@mariotafner/jaestro",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "JS Utils",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "files": [
-      "dist"
+        "dist"
     ],
     "scripts": {
-      "build": "tsc",
-      "prepare": "tsc",
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "build": "tsc",
+        "prepare": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Mario Fabre <admin@mariofabre.dev>",
     "license": "UNLICENSED",
     "private": false,
     "devDependencies": {
-      "typescript": "^5.4.0"
+        "@types/node": "^26.1.1",
+        "@types/pako": "^2.0.4",
+        "typescript": "^5.4.0"
+    },
+    "optionalDependencies": {
+        "pako": "^3.0.1",
+        "snappy": "^7.3.3"
     }
-  }
+}
