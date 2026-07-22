@@ -1,12 +1,21 @@
 {
     "name": "@mariotafner/jaestro",
-    "version": "1.0.0",
-    "description": "Minha biblioteca de utilitários para projetos Node/Bun.",
-    "main": "index.js",
+    "version": "1.0.1",
+    "description": "JS Utils",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+      "dist"
+    ],
     "scripts": {
+      "build": "tsc",
+      "prepare": "tsc",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Mario Fabre <admin@mariofabre.dev>",
     "license": "UNLICENSED",
-    "private": false
+    "private": false,
+    "devDependencies": {
+      "typescript": "^5.4.0"
+    }
   }
